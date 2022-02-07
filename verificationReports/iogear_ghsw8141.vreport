@@ -1,0 +1,329 @@
+<?xml version="1.0" standalone="yes"?>
+<verification_report>
+    <action name="PowerOn" zone="AV Switch" resource="Universal">
+        <verify_state interface="IR">0</verify_state>
+        <verify_state interface="RS232">0</verify_state>
+    </action>
+    <action name="PowerOff" zone="AV Switch" resource="Universal">
+        <verify_state interface="IR">0</verify_state>
+        <verify_state interface="RS232">0</verify_state>
+    </action>
+    <action name="PowerToggle" zone="AV Switch" resource="Universal">
+        <verify_state interface="IR">0</verify_state>
+        <verify_state interface="RS232">0</verify_state>
+    </action>
+    <action name="Home" zone="AV Switch" resource="Media Server">
+        <verify_state interface="IR">0</verify_state>
+        <verify_state interface="RS232">0</verify_state>
+    </action>
+    <action name="Movies" zone="AV Switch" resource="Media Server">
+        <verify_state interface="IR">0</verify_state>
+        <verify_state interface="RS232">0</verify_state>
+    </action>
+    <action name="Music" zone="AV Switch" resource="Media Server">
+        <verify_state interface="IR">0</verify_state>
+        <verify_state interface="RS232">0</verify_state>
+    </action>
+    <action name="Photos" zone="AV Switch" resource="Media Server">
+        <verify_state interface="IR">0</verify_state>
+        <verify_state interface="RS232">0</verify_state>
+    </action>
+    <action name="Setup" zone="AV Switch" resource="Media Server">
+        <verify_state interface="IR">0</verify_state>
+        <verify_state interface="RS232">0</verify_state>
+    </action>
+    <action name="Help" zone="AV Switch" resource="Media Server">
+        <verify_state interface="IR">0</verify_state>
+        <verify_state interface="RS232">0</verify_state>
+    </action>
+    <action name="PageUp" zone="AV Switch" resource="Media Server">
+        <verify_state interface="IR">0</verify_state>
+        <verify_state interface="RS232">0</verify_state>
+    </action>
+    <action name="PageDown" zone="AV Switch" resource="Media Server">
+        <verify_state interface="IR">0</verify_state>
+        <verify_state interface="RS232">0</verify_state>
+    </action>
+    <action name="Select" zone="AV Switch" resource="Media Server">
+        <verify_state interface="IR">0</verify_state>
+        <verify_state interface="RS232">0</verify_state>
+    </action>
+    <action name="OSDCursorUp" zone="AV Switch" resource="Media Server">
+        <verify_state interface="IR">0</verify_state>
+        <verify_state interface="RS232">0</verify_state>
+    </action>
+    <action name="OSDCursorDown" zone="AV Switch" resource="Media Server">
+        <verify_state interface="IR">0</verify_state>
+        <verify_state interface="RS232">0</verify_state>
+    </action>
+    <action name="OSDCursorLeft" zone="AV Switch" resource="Media Server">
+        <verify_state interface="IR">0</verify_state>
+        <verify_state interface="RS232">0</verify_state>
+    </action>
+    <action name="OSDCursorRight" zone="AV Switch" resource="Media Server">
+        <verify_state interface="IR">0</verify_state>
+        <verify_state interface="RS232">0</verify_state>
+    </action>
+    <action name="Exit" zone="AV Switch" resource="Media Server">
+        <verify_state interface="IR">0</verify_state>
+        <verify_state interface="RS232">0</verify_state>
+    </action>
+    <action name="Play" zone="AV Switch" resource="Media Server">
+        <verify_state interface="IR">0</verify_state>
+        <verify_state interface="RS232">0</verify_state>
+    </action>
+    <action name="Pause" zone="AV Switch" resource="Media Server">
+        <verify_state interface="IR">0</verify_state>
+        <verify_state interface="RS232">0</verify_state>
+    </action>
+    <action name="Stop" zone="AV Switch" resource="Media Server">
+        <verify_state interface="IR">0</verify_state>
+        <verify_state interface="RS232">0</verify_state>
+    </action>
+    <action name="ScanUp" zone="AV Switch" resource="Media Server">
+        <verify_state interface="IR">0</verify_state>
+        <verify_state interface="RS232">0</verify_state>
+    </action>
+    <action name="ScanDown" zone="AV Switch" resource="Media Server">
+        <verify_state interface="IR">0</verify_state>
+        <verify_state interface="RS232">0</verify_state>
+    </action>
+    <action name="SkipUp" zone="AV Switch" resource="Media Server">
+        <verify_state interface="IR">0</verify_state>
+        <verify_state interface="RS232">0</verify_state>
+    </action>
+    <action name="SkipDown" zone="AV Switch" resource="Media Server">
+        <verify_state interface="IR">0</verify_state>
+        <verify_state interface="RS232">0</verify_state>
+    </action>
+    <action name="StepUp" zone="AV Switch" resource="Media Server">
+        <verify_state interface="IR">0</verify_state>
+        <verify_state interface="RS232">0</verify_state>
+    </action>
+    <action name="StepDown" zone="AV Switch" resource="Media Server">
+        <verify_state interface="IR">0</verify_state>
+        <verify_state interface="RS232">0</verify_state>
+    </action>
+    <action name="Repeat" zone="AV Switch" resource="Media Server">
+        <verify_state interface="IR">0</verify_state>
+        <verify_state interface="RS232">0</verify_state>
+    </action>
+    <action name="Record" zone="AV Switch" resource="Media Server">
+        <verify_state interface="IR">0</verify_state>
+        <verify_state interface="RS232">0</verify_state>
+    </action>
+    <action name="Info" zone="AV Switch" resource="Media Server">
+        <verify_state interface="IR">0</verify_state>
+        <verify_state interface="RS232">0</verify_state>
+    </action>
+    <action name="Menu" zone="AV Switch" resource="Media Server">
+        <verify_state interface="IR">0</verify_state>
+        <verify_state interface="RS232">0</verify_state>
+    </action>
+    <action name="Angle" zone="AV Switch" resource="Media Server">
+        <verify_state interface="IR">0</verify_state>
+        <verify_state interface="RS232">0</verify_state>
+    </action>
+    <action name="Audio" zone="AV Switch" resource="Media Server">
+        <verify_state interface="IR">0</verify_state>
+        <verify_state interface="RS232">0</verify_state>
+    </action>
+    <action name="Random" zone="AV Switch" resource="Media Server">
+        <verify_state interface="IR">0</verify_state>
+        <verify_state interface="RS232">0</verify_state>
+    </action>
+    <action name="Zoom" zone="AV Switch" resource="Media Server">
+        <verify_state interface="IR">0</verify_state>
+        <verify_state interface="RS232">0</verify_state>
+    </action>
+    <action name="Subtitle" zone="AV Switch" resource="Media Server">
+        <verify_state interface="IR">0</verify_state>
+        <verify_state interface="RS232">0</verify_state>
+    </action>
+    <action name="NumberZero" zone="AV Switch" resource="Media Server">
+        <verify_state interface="IR">0</verify_state>
+        <verify_state interface="RS232">0</verify_state>
+    </action>
+    <action name="NumberOne" zone="AV Switch" resource="Media Server">
+        <verify_state interface="IR">0</verify_state>
+        <verify_state interface="RS232">0</verify_state>
+    </action>
+    <action name="NumberTwo" zone="AV Switch" resource="Media Server">
+        <verify_state interface="IR">0</verify_state>
+        <verify_state interface="RS232">0</verify_state>
+    </action>
+    <action name="NumberThree" zone="AV Switch" resource="Media Server">
+        <verify_state interface="IR">0</verify_state>
+        <verify_state interface="RS232">0</verify_state>
+    </action>
+    <action name="NumberFour" zone="AV Switch" resource="Media Server">
+        <verify_state interface="IR">0</verify_state>
+        <verify_state interface="RS232">0</verify_state>
+    </action>
+    <action name="NumberFive" zone="AV Switch" resource="Media Server">
+        <verify_state interface="IR">0</verify_state>
+        <verify_state interface="RS232">0</verify_state>
+    </action>
+    <action name="NumberSix" zone="AV Switch" resource="Media Server">
+        <verify_state interface="IR">0</verify_state>
+        <verify_state interface="RS232">0</verify_state>
+    </action>
+    <action name="NumberSeven" zone="AV Switch" resource="Media Server">
+        <verify_state interface="IR">0</verify_state>
+        <verify_state interface="RS232">0</verify_state>
+    </action>
+    <action name="NumberEight" zone="AV Switch" resource="Media Server">
+        <verify_state interface="IR">0</verify_state>
+        <verify_state interface="RS232">0</verify_state>
+    </action>
+    <action name="NumberNine" zone="AV Switch" resource="Media Server">
+        <verify_state interface="IR">0</verify_state>
+        <verify_state interface="RS232">0</verify_state>
+    </action>
+    <action name="NumberEnter" zone="AV Switch" resource="Media Server">
+        <verify_state interface="IR">0</verify_state>
+        <verify_state interface="RS232">0</verify_state>
+    </action>
+    <action name="NumberPlusTen" zone="AV Switch" resource="Media Server">
+        <verify_state interface="IR">0</verify_state>
+        <verify_state interface="RS232">0</verify_state>
+    </action>
+    <action name="Red" zone="AV Switch" resource="Media Server">
+        <verify_state interface="IR">0</verify_state>
+        <verify_state interface="RS232">0</verify_state>
+    </action>
+    <action name="Blue" zone="AV Switch" resource="Media Server">
+        <verify_state interface="IR">0</verify_state>
+        <verify_state interface="RS232">0</verify_state>
+    </action>
+    <action name="Green" zone="AV Switch" resource="Media Server">
+        <verify_state interface="IR">0</verify_state>
+        <verify_state interface="RS232">0</verify_state>
+    </action>
+    <action name="Yellow" zone="AV Switch" resource="Media Server">
+        <verify_state interface="IR">0</verify_state>
+        <verify_state interface="RS232">0</verify_state>
+    </action>
+    <action name="DecreaseVolume" zone="AV Switch" resource="Volume Control">
+        <verify_state interface="IR">0</verify_state>
+        <verify_state interface="RS232">0</verify_state>
+    </action>
+    <action name="IncreaseVolume" zone="AV Switch" resource="Volume Control">
+        <verify_state interface="IR">0</verify_state>
+        <verify_state interface="RS232">0</verify_state>
+    </action>
+    <action name="MuteOff" zone="AV Switch" resource="Volume Control">
+        <verify_state interface="IR">0</verify_state>
+        <verify_state interface="RS232">0</verify_state>
+    </action>
+    <action name="MuteOn" zone="AV Switch" resource="Volume Control">
+        <verify_state interface="IR">0</verify_state>
+        <verify_state interface="RS232">0</verify_state>
+    </action>
+    <action name="SelectInputHDMI IN 1" zone="AV Switch" resource="Custom">
+        <verify_state interface="IR">0</verify_state>
+        <verify_state interface="RS232">0</verify_state>
+        <test interface="RS232" time_stamp="2021-12-28 20:10:28.167"></test>
+        <test interface="RS232" time_stamp="2021-12-28 20:10:28.619"></test>
+    </action>
+    <action name="SelectInputHDMI IN 2" zone="AV Switch" resource="Custom">
+        <verify_state interface="IR">0</verify_state>
+        <verify_state interface="RS232">0</verify_state>
+    </action>
+    <action name="SelectInputHDMI IN 3" zone="AV Switch" resource="Custom">
+        <verify_state interface="IR">0</verify_state>
+        <verify_state interface="RS232">0</verify_state>
+    </action>
+    <action name="SelectInputHDMI IN 4" zone="AV Switch" resource="Custom">
+        <verify_state interface="IR">0</verify_state>
+        <verify_state interface="RS232">0</verify_state>
+    </action>
+    <action name="SelectInputRS-232" zone="AV Switch" resource="Custom">
+        <verify_state interface="IR">0</verify_state>
+        <verify_state interface="RS232">0</verify_state>
+        <expected_annotation interface="RS232"></expected_annotation>
+        <actual_annotation interface="RS232"></actual_annotation>
+    </action>
+    <action name="SelectInputHDMI IN 5" zone="AV Switch" resource="Custom">
+        <verify_state interface="IR">0</verify_state>
+        <verify_state interface="RS232">0</verify_state>
+    </action>
+    <action name="SelectInputHDMI IN 6" zone="AV Switch" resource="Custom">
+        <verify_state interface="IR">0</verify_state>
+        <verify_state interface="RS232">0</verify_state>
+    </action>
+    <action name="SelectInputHDMI IN 7" zone="AV Switch" resource="Custom">
+        <verify_state interface="IR">0</verify_state>
+        <verify_state interface="RS232">0</verify_state>
+    </action>
+    <action name="SelectInputHDMI IN 8" zone="AV Switch" resource="Custom">
+        <verify_state interface="IR">0</verify_state>
+        <verify_state interface="RS232">0</verify_state>
+    </action>
+    <action name="Action 1" zone="AV Switch" resource="Custom">
+        <verify_state interface="RS232">0</verify_state>
+    </action>
+    <action name="Action 2" zone="AV Switch" resource="Custom">
+        <verify_state interface="RS232">0</verify_state>
+    </action>
+    <action name="Port Sequence - Next Port" zone="AV Switch" resource="Custom">
+        <verify_state interface="IR">0</verify_state>
+        <verify_state interface="RS232">0</verify_state>
+    </action>
+    <action name="Port Sequence - Previous Port" zone="AV Switch" resource="Custom">
+        <verify_state interface="IR">0</verify_state>
+        <verify_state interface="RS232">0</verify_state>
+    </action>
+    <action name="Input Port 1" zone="AV Switch" resource="Custom">
+        <verify_state interface="IR">0</verify_state>
+        <verify_state interface="RS232">0</verify_state>
+    </action>
+    <action name="Input Port 2" zone="AV Switch" resource="Custom">
+        <verify_state interface="IR">0</verify_state>
+        <verify_state interface="RS232">0</verify_state>
+    </action>
+    <action name="Input Port 3" zone="AV Switch" resource="Custom">
+        <verify_state interface="IR">0</verify_state>
+        <verify_state interface="RS232">0</verify_state>
+        <test interface="RS232" time_stamp="2021-01-11 17:58:11.152">sw i03</test>
+    </action>
+    <action name="Input Port 4" zone="AV Switch" resource="Custom">
+        <verify_state interface="IR">0</verify_state>
+        <verify_state interface="RS232">0</verify_state>
+    </action>
+    <action name="Input Port 5" zone="AV Switch" resource="Custom">
+        <verify_state interface="IR">0</verify_state>
+        <verify_state interface="RS232">0</verify_state>
+    </action>
+    <action name="Input Port 6" zone="AV Switch" resource="Custom">
+        <verify_state interface="IR">0</verify_state>
+        <verify_state interface="RS232">0</verify_state>
+    </action>
+    <action name="Input Port 7" zone="AV Switch" resource="Custom">
+        <verify_state interface="IR">0</verify_state>
+        <verify_state interface="RS232">0</verify_state>
+    </action>
+    <action name="Input Port 8" zone="AV Switch" resource="Custom">
+        <verify_state interface="IR">0</verify_state>
+        <verify_state interface="RS232">0</verify_state>
+    </action>
+    <action name="Action 3" zone="AV Switch" resource="Custom">
+        <verify_state interface="RS232">0</verify_state>
+    </action>
+    <action name="Action 4" zone="AV Switch" resource="Custom">
+        <verify_state interface="RS232">0</verify_state>
+    </action>
+    <action name="Power On Detection - On" zone="AV Switch" resource="Custom">
+        <verify_state interface="IR">0</verify_state>
+        <verify_state interface="RS232">0</verify_state>
+    </action>
+    <action name="Power On Detection - Off" zone="AV Switch" resource="Custom">
+        <verify_state interface="IR">0</verify_state>
+        <verify_state interface="RS232">0</verify_state>
+        <expected_annotation interface="RS232"></expected_annotation>
+    </action>
+    <action name="SelectInputIR Receiver" zone="AV Switch" resource="Custom">
+        <verify_state interface="RS232">0</verify_state>
+        <verify_state interface="IR">0</verify_state>
+    </action>
+</verification_report>
